@@ -7,14 +7,11 @@
 
 
   </p>
-  <p>
-  
-    <img alt="role" src="https://img.shields.io/badge/Role-Cybersecurity%20Senior-blue?style=flat-square" />
-    <img alt="status" src="https://img.shields.io/badge/Looking%20to-Internships%20%2F%20Collaborate-blue?style=flat-square" />
-  </p>
+
 
   <!-- Social / contact -->
   <p>
+        <img alt="role" src="https://img.shields.io/badge/Role-Cybersecurity%20Senior-blue?style=flat-square" />
     <a href="https://www.linkedin.com/in/reenadaf/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
     <a href="mailto:Reenadalfulaij@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Reenadalfulaij@outlook.com-blue?style=flat-square&logo=gmail" /></a>
    
@@ -43,6 +40,8 @@ I am a **Cybersecurity Specialist** passionate about protecting digital environm
 [![Python](https://readme-components.vercel.app/api?component=logo&logo=python)](https://www.python.org)
 [![Linux](https://readme-components.vercel.app/api?component=logo&logo=linux)](https://www.linux.org)
 [![GitHub](https://readme-components.vercel.app/api?component=logo&logo=github)](https://github.com)
+
+
  **Wireshark**  
 - **Kali Linux**  
 - **Nmap**  
@@ -62,7 +61,8 @@ I am a **Cybersecurity Specialist** passionate about protecting digital environm
 
 ## 📫 Contact 
 - 📧 Email: Reenadalfulaij@outlook.com  
-- 🔗 LinkedIn: https:/linkedin.com/in/reenadaf
+- 🔗 LinkedIn: [https://www.linkedin.com/in/reenadaf](https://www.linkedin.com/in/reenadaf)
+
 
 
 ---

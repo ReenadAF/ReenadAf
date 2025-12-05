@@ -11,7 +11,7 @@
 
   <!-- Social / contact -->
   <p>
-        <img alt="role" src="https://img.shields.io/badge/Role-Cybersecurity%20Senior-blue?style=flat-square" />
+        <img alt="role" src="https://img.shields.io/badge/Role-Cybersecurity%20Specialist-blue?style=flat-square" />
     <a href="https://www.linkedin.com/in/reenadaf/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
     <a href="mailto:Reenadalfulaij@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Reenadalfulaij@outlook.com-blue?style=flat-square&logo=gmail" /></a>
    
